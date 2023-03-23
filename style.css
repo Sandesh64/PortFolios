@@ -149,10 +149,6 @@ header .footer p a{
     left: 0;
 }
 
-/* ===   Header END ==== */
-
-/* ----------------------------------------------- */
-
 /* === MAIN SECTION === */
 main{
     margin-left: 300px;
@@ -244,7 +240,7 @@ main{
 }
 
 
-/* ==== About Section Start ==== */
+/* ==== About Section ==== */
 #about{
     padding: 70px 30px;
 }
@@ -368,10 +364,8 @@ main{
         width: 90%;
     }
 }
-/* ==== About Section END ==== */
 
-
-/* ==== Skills Section Start ==== */
+/* ==== Skills Section ==== */
 #skill{
     padding: 70px 30px;
 }
@@ -408,7 +402,7 @@ main{
     border-radius: 20px;
 }
 
-/* ===== Tools Section Start ===== */
+/* ===== Tools Section ===== */
 #tool{
     padding: 50px 30px;
 }
@@ -440,9 +434,8 @@ main{
         grid-gap: 10px;
     }
 }
-/* ==== Skills Section END ==== */
 
-/* ======== Portfolio Section Start ========= */
+/* ======== Portfolio Section ========= */
 #portfolio{
     padding: 70px 30px;
 }
@@ -529,9 +522,8 @@ main{
         grid-gap: 15px;
     }
 }
-/* ======== Portfolio Section END ========= */
 
-/* ======= Services Section Start ========= */
+/* ======= Services Section ========= */
 #service{
     padding: 70px 30px;
     background-color: white;
@@ -595,9 +587,8 @@ main{
         grid-gap: 15px;
     }
 }
-/* ======= Services Section END ========= */
 
-/* ===== Contact Section Start ==== */
+/* ===== Contact Section ==== */
 #contact{
     padding: 70px 30px;
 }
