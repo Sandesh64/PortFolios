@@ -587,14 +587,11 @@ main{
     padding: 70px 30px;
 }
 #contact .contact-row{
-    margin-top: 50px;
     width: 100%;
 }
 #contact .contact-row .contact-left{
     flex-basis: 40%;
     min-width: 40%;
-    box-shadow: 0 0 20px rgba(0, 0, 20%);
-    border-radius: 4px;
     padding: 30px;
 }
 #contact .contact-row .contact-left .icon-box{
