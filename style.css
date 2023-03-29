@@ -596,13 +596,14 @@ main{
     width: 100%;
 }
 #contact .contact-row .contact-left{
-    display: flex;
-    gap: 140px;
+
+
     flex-basis: 40%;
     min-width: 40%;
     padding: 30px;
 }
-#contact .contact-row .contact-left .icon-box{
+#contact .contact-row .contact-left .icon-box{
+
     align-items: center;
     margin: 30px 0;
 }
